@@ -1,0 +1,100 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    text-align: center;
+}
+.header{
+    color:aliceblue;
+    height: 70px;
+    background: linear-gradient(rgba(255, 192, 203, 0.589), rgba(135, 207, 235, 0.404)), url(pictures/images2.jpg) no-repeat;
+    text-align: center;
+    font-style: normal;
+    line-height: 3;
+    font-size: 50px;
+    height: 1100px;
+    background-size: cover;   
+    width: auto;
+}
+#MSC p span{
+    padding-top: 70px;
+    display: block;
+    line-height: 1px;
+} 
+#header-primary {
+    padding-bottom: 10px;
+}
+.section{
+    background:pink;
+    line-height:3;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+
+}
+
+.contact{
+    font-style:italic;
+    background:rgba(40, 53, 58, 0.404);
+    line-height:2;
+    font-size: 40px;
+    padding: 20px;
+}
+
+button{
+    position: absolute;
+    margin-top: -10.4%;
+    background: rgb(140, 230, 240);
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height: 50px;
+    border-radius: 25px;
+    overflow: hidden;
+    left: 50%;
+    font-size: 30px;
+    font-size: bold;
+    border: 2px solid black;
+
+}
+#footer {
+    padding: 20px;
+    background: rgb(140, 230, 240);
+    height: 10vh;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    line-height:4;
+}
+#pfp{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: black solid 2px;
+}
+#pff{
+    height:250px;
+    width:250px;
+}
+#fpp{
+    height:200px;
+    width:200px;
+}
+a{
+    width: 100px;
+    height: 100px;
+}
+#ffp{
+    height:200px;
+    width:200px ;
+}
+
+.mama{
+    padding: 70px;
+    background:rgb(240, 143, 240) ;
+}
+#ptt{
+    height:200px;
+    width:200px;
+}
+#footer p{
+    font-size: 20px;
+}
